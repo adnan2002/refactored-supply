@@ -1,0 +1,1 @@
+export type UserRole = "supplier" | "buyer" | "financial" | "investor" | "operator"
